@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Token_Practise\\TokenAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\models\\revoketoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\models\\revoketoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\models\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Token_Practise\\TokenAPI\\TokenAPI\\Migrations\\20250108074333_AddRefreshTokensTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TokenAPI\\Migrations\\20250108074333_AddRefreshTokensTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\models\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\models\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\models\\addrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\models\\addrolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\helpers\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\helpers\\jwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\migrations\\20250107125619_seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\migrations\\20250107125619_seedroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|d:\\token_practise\\tokenapi\\tokenapi\\migrations\\20250107125334_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F694BCF6-830F-4CE7-9B14-8533757D8604}|TokenAPI\\TokenAPI.csproj|solutionrelative:tokenapi\\migrations\\20250107125334_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 476,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RevokeToken.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Models\\RevokeToken.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Models\\RevokeToken.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Models\\RevokeToken.cs*",
+              "RelativeToolTip": "TokenAPI\\Models\\RevokeToken.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:37:57.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Services\\AuthService.cs*",
+              "RelativeToolTip": "TokenAPI\\Services\\AuthService.cs*",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAkwJ8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:01:46.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TokenAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:44:31.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Services\\IAuthService.cs",
+              "RelativeToolTip": "TokenAPI\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:01:30.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Models\\RefreshToken.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "TokenAPI\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:39:31.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "TokenAPI\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:39:54.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Program.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Program.cs",
+              "RelativeToolTip": "TokenAPI\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwC8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:36:40.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthModel.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Models\\AuthModel.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Models\\AuthModel.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Models\\AuthModel.cs",
+              "RelativeToolTip": "TokenAPI\\Models\\AuthModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:10:46.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SecureController.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Controllers\\SecureController.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Controllers\\SecureController.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Controllers\\SecureController.cs",
+              "RelativeToolTip": "TokenAPI\\Controllers\\SecureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T08:04:35.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TokenAPI\\appsettings.json",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\appsettings.json",
+              "RelativeToolTip": "TokenAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T12:33:05.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250108074333_AddRefreshTokensTable.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Migrations\\20250108074333_AddRefreshTokensTable.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Migrations\\20250108074333_AddRefreshTokensTable.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Migrations\\20250108074333_AddRefreshTokensTable.cs",
+              "RelativeToolTip": "TokenAPI\\Migrations\\20250108074333_AddRefreshTokensTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:43:34.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Models\\RegisterModel.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "TokenAPI\\Models\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:15:57.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TokenRequestModel.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Models\\TokenRequestModel.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Models\\TokenRequestModel.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Models\\TokenRequestModel.cs",
+              "RelativeToolTip": "TokenAPI\\Models\\TokenRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:04:17.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TokenAPI\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:41:30.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddRoleModel.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Models\\AddRoleModel.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Models\\AddRoleModel.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Models\\AddRoleModel.cs",
+              "RelativeToolTip": "TokenAPI\\Models\\AddRoleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:21:17.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TokenAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:29:05.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\WeatherForecast.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "TokenAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:45:20.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JWT.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Helpers\\JWT.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Helpers\\JWT.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Helpers\\JWT.cs",
+              "RelativeToolTip": "TokenAPI\\Helpers\\JWT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:35:01.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250107125619_seedRoles.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Migrations\\20250107125619_seedRoles.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Migrations\\20250107125619_seedRoles.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Migrations\\20250107125619_seedRoles.cs",
+              "RelativeToolTip": "TokenAPI\\Migrations\\20250107125619_seedRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:56:19.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250107125334_initialCreate.cs",
+              "DocumentMoniker": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Migrations\\20250107125334_initialCreate.cs",
+              "RelativeDocumentMoniker": "TokenAPI\\Migrations\\20250107125334_initialCreate.cs",
+              "ToolTip": "D:\\Token_Practise\\TokenAPI\\TokenAPI\\Migrations\\20250107125334_initialCreate.cs",
+              "RelativeToolTip": "TokenAPI\\Migrations\\20250107125334_initialCreate.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:53:35.167Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 181,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 129,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

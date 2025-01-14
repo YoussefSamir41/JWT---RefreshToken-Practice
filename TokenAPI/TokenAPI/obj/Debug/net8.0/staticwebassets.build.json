@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "IPXhT9m+ouNHr6Na2MQg26Sp9Mcuxtm+dDIsHlF4Qyg=",
+  "Source": "TokenAPI",
+  "BasePath": "_content/TokenAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
